@@ -1,0 +1,9 @@
+python usps.py --infile MSC21900_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21900_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21901_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21901_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21902_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21902_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21903_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21903_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21904_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21904_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21905_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21905_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21906_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21906_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21907_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21907_10_02_2021_fo --USPS_user 858MASAD0681
+python usps.py --infile MSC21908_10_02_2021.csv --num_threads 50 --num_trackids_to_check 20 --fieldFOtoZipJSON FOtozip.json --filename MSC21908_10_02_2021_fo --USPS_user 858MASAD0681
